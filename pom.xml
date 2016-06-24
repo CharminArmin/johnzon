@@ -40,7 +40,7 @@
   <url>http://incubator.apache.org/projects/johnzon.html</url>
 
   <properties>
-    <jsonspecversion>1.0-alpha-1</jsonspecversion>
+    <jsonspecversion>1.0-SNAPSHOT</jsonspecversion>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <johnzon.site.url>https://svn.apache.org/repos/asf/incubator/johnzon/site/publish/</johnzon.site.url>
     <pubsub.url>scm:svn:${johnzon.site.url}</pubsub.url>
